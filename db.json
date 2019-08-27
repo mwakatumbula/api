@@ -1,6 +1,5 @@
 {
-  "client": [
-   {
+  "client":[{
   "clientName": "Mwakatumbula",
   "clientId": 1,
   "projects": [
@@ -65,13 +64,135 @@
       }
     }
   ]
-}
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+},{
+  "clientName": "John",
+  "clientId": 1,
+  "projects": [
+    {
+      "Malaria":{
+        "regions":[
+          {
+            "id": 1,
+            "name": "Mbeya",
+            "districts": 30
+          },
+          {
+            "item": 2,
+            "total": "Tanga",
+            "districts": 12
+          }
+        ],
+        "events": [
+          {
+            "id": 1,
+            "name": "MVU",
+            "targets": 40,
+            "reach": 5400
+          },
+          {
+            "id": 1,
+            "name": "MVU",
+            "targets": 32,
+            "reach": 3800
+          }
+        ]
+      }
+    },
+    {
+      "Home":{
+        "regions":[
+          {
+            "id": 1,
+            "name": "Mbeya",
+            "districts": 30
+          },
+          {
+            "item": 2,
+            "name": "Tanga",
+            "districts": 12
+          }
+        ],
+        "events": [
+          {
+            "id": 1,
+            "name": "MVU",
+            "targets": 40,
+            "reach": 5400
+          },
+          {
+            "id": 1,
+            "name": "MVU",
+            "targets": 32,
+            "reach": 3800
+          }
+        ]
+      }
+    }
+  ]
+},{
+  "clientName": "Uiso",
+  "clientId": 1,
+  "projects": [
+    {
+      "Malaria":{
+        "regions":[
+          {
+            "id": 1,
+            "name": "Mbeya",
+            "districts": 30
+          },
+          {
+            "item": 2,
+            "total": "Tanga",
+            "districts": 12
+          }
+        ],
+        "events": [
+          {
+            "id": 1,
+            "name": "MVU",
+            "targets": 40,
+            "reach": 5400
+          },
+          {
+            "id": 1,
+            "name": "MVU",
+            "targets": 32,
+            "reach": 3800
+          }
+        ]
+      }
+    },
+    {
+      "Home":{
+        "regions":[
+          {
+            "id": 1,
+            "name": "Mbeya",
+            "districts": 30
+          },
+          {
+            "item": 2,
+            "name": "Tanga",
+            "districts": 12
+          }
+        ],
+        "events": [
+          {
+            "id": 1,
+            "name": "MVU",
+            "targets": 40,
+            "reach": 5400
+          },
+          {
+            "id": 1,
+            "name": "MVU",
+            "targets": 32,
+            "reach": 3800
+          }
+        ]
+      }
+    }
+  ]
+}]
 }
