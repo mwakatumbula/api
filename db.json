@@ -1,285 +1,293 @@
-{
-  "group": [
-    {
-      "name": "Mwakatumbula",
-      "createdBy": "ur655128012",
-      "member": [
-        "ur68118011",
-        "ur712197516",
-        "ur687128012"
-      ],
-      "payment": [
-        {
-          "1/10/2019": {
-            "loan": [
-              {
-                "user": "ur68118011",
-                "amount": 15000
-              },
-              {
-                "user": "ur655128012",
-                "amount": 15000
-              },
-              {
-                "user": "ur687128012",
-                "amount": 15000
-              }
-            ],
-            "hisa": [
-              {
-                "user": "ur68118011",
-                "amount": 5000
-              },
-              {
-                "user": "ur655128012",
-                "amount": 0
-              },
-              {
-                "user": "ur687128012",
-                "amount": 10000
-              }
-            ]
-          }
-        },
-        {
-          "30/09/2019": {
-            "loan": [
-              {
-                "user": "ur68118011",
-                "amount": 15000
-              },
-              {
-                "user": "ur655128012",
-                "amount": 15000
-              },
-              {
-                "user": "ur687128012",
-                "amount": 15000
-              }
-            ],
-            "hisa": [
-              {
-                "user": "ur68118011",
-                "amount": 2000
-              },
-              {
-                "user": "ur655128012",
-                "amount": 50000
-              },
-              {
-                "user": "ur687128012",
-                "amount": 80000
-              }
-            ]
-          }
-        }
-      ],
-      "attendance": [
-        {
-          "1/10/2019": [
-            {
-              "user": "ur68118011",
-              "status": true
-            },
-            {
-              "user": "ur655128012",
-              "status": true
-            },
-            {
-              "user": "ur687128012",
-              "status": false
-            }
-          ]
-        },
-        {
-          "30/09/2019": [
-            {
-              "user": "ur68118011",
-              "status": true
-            },
-            {
-              "user": "ur655128012",
-              "status": true
-            },
-            {
-              "user": "ur687128012",
-              "status": false
-            }
-          ]
-        }
-      ],
-      "loans": [
-        {
-          "11/09/2019": [
-            {
-              "user": "ur68118011",
-              "amount": 300000
-            },
-            {
-              "user": "ur655128012",
-              "amount": 50000
-            },
-            {
-              "user": "ur687128012",
-              "amount": 120000
-            }
-          ]
-        },
-        {
-          "10/09/2019": [
-            {
-              "user": "ur68118011",
-              "amount": 50000
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Lion",
-      "createdBy": "ur655128013",
-      "member": [
-        "ur68118012",
-        "ur712197511",
-        "ur687128013"
-      ],
-      "payment": [
-        {
-          "1/10/2019": {
-            "loan": [
-              {
-                "user": "ur68118012",
-                "amount": 15000
-              },
-              {
-                "user": "ur655128011",
-                "amount": 15000
-              },
-              {
-                "user": "ur687128013",
-                "amount": 15000
-              }
-            ],
-            "hisa": [
-              {
-                "user": "ur68118012",
-                "amount": 5000
-              },
-              {
-                "user": "ur655128011",
-                "amount": 0
-              },
-              {
-                "user": "ur687128013",
-                "amount": 10000
-              }
-            ]
-          }
-        },
-        {
-          "30/09/2019": {
-            "loan": [
-              {
-                "user": "ur68118012",
-                "amount": 15000
-              },
-              {
-                "user": "ur655128011",
-                "amount": 15000
-              },
-              {
-                "user": "ur687128013",
-                "amount": 15000
-              }
-            ],
-            "hisa": [
-              {
-                "user": "ur68118012",
-                "amount": 2000
-              },
-              {
-                "user": "ur655128011",
-                "amount": 50000
-              },
-              {
-                "user": "ur687128013",
-                "amount": 80000
-              }
-            ]
-          }
-        }
-      ],
-      "attendance": [
-        {
-          "1/10/2019": [
-            {
-              "user": "ur68118012",
-              "status": true
-            },
-            {
-              "user": "ur655128011",
-              "status": true
-            },
-            {
-              "user": "ur687128013",
-              "status": false
-            }
-          ]
-        },
-        {
-          "30/09/2019": [
-            {
-              "user": "ur68118012",
-              "status": true
-            },
-            {
-              "user": "ur655128011",
-              "status": true
-            },
-            {
-              "user": "ur687128013",
-              "status": false
-            }
-          ]
-        }
-      ],
-      "loans": [
-        {
-          "11/09/2019": [
-            {
-              "user": "ur68118012",
-              "amount": 300000
-            },
-            {
-              "user": "ur655128011",
-              "amount": 50000
-            },
-            {
-              "user": "ur687128013",
-              "amount": 120000
-            }
-          ]
-        },
-        {
-          "10/09/2019": [
-            {
-              "user": "ur68118013",
-              "amount": 50000
-            }
-          ]
-        }
-      ]
-    }
-  ],
-  "user": [
+{"user": {
+  "error": false,
+  "success": true,
+  "data": [
     {
       "name": "Francis Mwakatumbula",
       "id": "ur655128012",
       "contact": "0655128012"
-    },{
+    },
+    {
       "name": "Baraka John",
       "id": "ur655128012",
       "contact": "0655128013"
     }
   ]
+},
+  "group": {
+    "error": false,
+    "success": true,
+    "data": [
+      {
+        "name": "Mwakatumbula",
+        "createdBy": "ur655128012",
+        "member": [
+          "ur68118011",
+          "ur712197516",
+          "ur687128012"
+        ],
+        "payment": [
+          {
+            "1/10/2019": {
+              "loan": [
+                {
+                  "user": "ur68118011",
+                  "amount": 15000
+                },
+                {
+                  "user": "ur655128012",
+                  "amount": 15000
+                },
+                {
+                  "user": "ur687128012",
+                  "amount": 15000
+                }
+              ],
+              "hisa": [
+                {
+                  "user": "ur68118011",
+                  "amount": 5000
+                },
+                {
+                  "user": "ur655128012",
+                  "amount": 0
+                },
+                {
+                  "user": "ur687128012",
+                  "amount": 10000
+                }
+              ]
+            }
+          },
+          {
+            "30/09/2019": {
+              "loan": [
+                {
+                  "user": "ur68118011",
+                  "amount": 15000
+                },
+                {
+                  "user": "ur655128012",
+                  "amount": 15000
+                },
+                {
+                  "user": "ur687128012",
+                  "amount": 15000
+                }
+              ],
+              "hisa": [
+                {
+                  "user": "ur68118011",
+                  "amount": 2000
+                },
+                {
+                  "user": "ur655128012",
+                  "amount": 50000
+                },
+                {
+                  "user": "ur687128012",
+                  "amount": 80000
+                }
+              ]
+            }
+          }
+        ],
+        "attendance": [
+          {
+            "1/10/2019": [
+              {
+                "user": "ur68118011",
+                "status": true
+              },
+              {
+                "user": "ur655128012",
+                "status": true
+              },
+              {
+                "user": "ur687128012",
+                "status": false
+              }
+            ]
+          },
+          {
+            "30/09/2019": [
+              {
+                "user": "ur68118011",
+                "status": true
+              },
+              {
+                "user": "ur655128012",
+                "status": true
+              },
+              {
+                "user": "ur687128012",
+                "status": false
+              }
+            ]
+          }
+        ],
+        "loans": [
+          {
+            "11/09/2019": [
+              {
+                "user": "ur68118011",
+                "amount": 300000
+              },
+              {
+                "user": "ur655128012",
+                "amount": 50000
+              },
+              {
+                "user": "ur687128012",
+                "amount": 120000
+              }
+            ]
+          },
+          {
+            "10/09/2019": [
+              {
+                "user": "ur68118011",
+                "amount": 50000
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Lion",
+        "createdBy": "ur655128013",
+        "member": [
+          "ur68118012",
+          "ur712197511",
+          "ur687128013"
+        ],
+        "payment": [
+          {
+            "1/10/2019": {
+              "loan": [
+                {
+                  "user": "ur68118012",
+                  "amount": 15000
+                },
+                {
+                  "user": "ur655128011",
+                  "amount": 15000
+                },
+                {
+                  "user": "ur687128013",
+                  "amount": 15000
+                }
+              ],
+              "hisa": [
+                {
+                  "user": "ur68118012",
+                  "amount": 5000
+                },
+                {
+                  "user": "ur655128011",
+                  "amount": 0
+                },
+                {
+                  "user": "ur687128013",
+                  "amount": 10000
+                }
+              ]
+            }
+          },
+          {
+            "30/09/2019": {
+              "loan": [
+                {
+                  "user": "ur68118012",
+                  "amount": 15000
+                },
+                {
+                  "user": "ur655128011",
+                  "amount": 15000
+                },
+                {
+                  "user": "ur687128013",
+                  "amount": 15000
+                }
+              ],
+              "hisa": [
+                {
+                  "user": "ur68118012",
+                  "amount": 2000
+                },
+                {
+                  "user": "ur655128011",
+                  "amount": 50000
+                },
+                {
+                  "user": "ur687128013",
+                  "amount": 80000
+                }
+              ]
+            }
+          }
+        ],
+        "attendance": [
+          {
+            "1/10/2019": [
+              {
+                "user": "ur68118012",
+                "status": true
+              },
+              {
+                "user": "ur655128011",
+                "status": true
+              },
+              {
+                "user": "ur687128013",
+                "status": false
+              }
+            ]
+          },
+          {
+            "30/09/2019": [
+              {
+                "user": "ur68118012",
+                "status": true
+              },
+              {
+                "user": "ur655128011",
+                "status": true
+              },
+              {
+                "user": "ur687128013",
+                "status": false
+              }
+            ]
+          }
+        ],
+        "loans": [
+          {
+            "11/09/2019": [
+              {
+                "user": "ur68118012",
+                "amount": 300000
+              },
+              {
+                "user": "ur655128011",
+                "amount": 50000
+              },
+              {
+                "user": "ur687128013",
+                "amount": 120000
+              }
+            ]
+          },
+          {
+            "10/09/2019": [
+              {
+                "user": "ur68118013",
+                "amount": 50000
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
 }
