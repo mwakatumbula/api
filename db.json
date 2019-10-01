@@ -1,198 +1,285 @@
 {
-  "client":[{
-  "clientName": "Mwakatumbula",
-  "clientId": 1,
-  "projects": [
+  "group": [
     {
-      "Malaria":{
-        "regions":[
-          {
-            "id": 1,
-            "name": "Mbeya",
-            "districts": 30
-          },
-          {
-            "item": 2,
-            "total": "Tanga",
-            "districts": 12
+      "name": "Mwakatumbula",
+      "createdBy": "ur655128012",
+      "member": [
+        "ur68118011",
+        "ur712197516",
+        "ur687128012"
+      ],
+      "payment": [
+        {
+          "1/10/2019": {
+            "loan": [
+              {
+                "user": "ur68118011",
+                "amount": 15000
+              },
+              {
+                "user": "ur655128012",
+                "amount": 15000
+              },
+              {
+                "user": "ur687128012",
+                "amount": 15000
+              }
+            ],
+            "hisa": [
+              {
+                "user": "ur68118011",
+                "amount": 5000
+              },
+              {
+                "user": "ur655128012",
+                "amount": 0
+              },
+              {
+                "user": "ur687128012",
+                "amount": 10000
+              }
+            ]
           }
-        ],
-        "events": [
-          {
-            "id": 1,
-            "name": "MVU",
-            "targets": 40,
-            "reach": 5400
-          },
-          {
-            "id": 1,
-            "name": "MVU",
-            "targets": 32,
-            "reach": 3800
+        },
+        {
+          "30/09/2019": {
+            "loan": [
+              {
+                "user": "ur68118011",
+                "amount": 15000
+              },
+              {
+                "user": "ur655128012",
+                "amount": 15000
+              },
+              {
+                "user": "ur687128012",
+                "amount": 15000
+              }
+            ],
+            "hisa": [
+              {
+                "user": "ur68118011",
+                "amount": 2000
+              },
+              {
+                "user": "ur655128012",
+                "amount": 50000
+              },
+              {
+                "user": "ur687128012",
+                "amount": 80000
+              }
+            ]
           }
-        ]
-      }
+        }
+      ],
+      "attendance": [
+        {
+          "1/10/2019": [
+            {
+              "user": "ur68118011",
+              "status": true
+            },
+            {
+              "user": "ur655128012",
+              "status": true
+            },
+            {
+              "user": "ur687128012",
+              "status": false
+            }
+          ]
+        },
+        {
+          "30/09/2019": [
+            {
+              "user": "ur68118011",
+              "status": true
+            },
+            {
+              "user": "ur655128012",
+              "status": true
+            },
+            {
+              "user": "ur687128012",
+              "status": false
+            }
+          ]
+        }
+      ],
+      "loans": [
+        {
+          "11/09/2019": [
+            {
+              "user": "ur68118011",
+              "amount": 300000
+            },
+            {
+              "user": "ur655128012",
+              "amount": 50000
+            },
+            {
+              "user": "ur687128012",
+              "amount": 120000
+            }
+          ]
+        },
+        {
+          "10/09/2019": [
+            {
+              "user": "ur68118011",
+              "amount": 50000
+            }
+          ]
+        }
+      ]
     },
     {
-      "Home":{
-        "regions":[
-          {
-            "id": 1,
-            "name": "Mbeya",
-            "districts": 30
-          },
-          {
-            "item": 2,
-            "name": "Tanga",
-            "districts": 12
+      "name": "Lion",
+      "createdBy": "ur655128013",
+      "member": [
+        "ur68118012",
+        "ur712197511",
+        "ur687128013"
+      ],
+      "payment": [
+        {
+          "1/10/2019": {
+            "loan": [
+              {
+                "user": "ur68118012",
+                "amount": 15000
+              },
+              {
+                "user": "ur655128011",
+                "amount": 15000
+              },
+              {
+                "user": "ur687128013",
+                "amount": 15000
+              }
+            ],
+            "hisa": [
+              {
+                "user": "ur68118012",
+                "amount": 5000
+              },
+              {
+                "user": "ur655128011",
+                "amount": 0
+              },
+              {
+                "user": "ur687128013",
+                "amount": 10000
+              }
+            ]
           }
-        ],
-        "events": [
-          {
-            "id": 1,
-            "name": "MVU",
-            "targets": 40,
-            "reach": 5400
-          },
-          {
-            "id": 1,
-            "name": "MVU",
-            "targets": 32,
-            "reach": 3800
+        },
+        {
+          "30/09/2019": {
+            "loan": [
+              {
+                "user": "ur68118012",
+                "amount": 15000
+              },
+              {
+                "user": "ur655128011",
+                "amount": 15000
+              },
+              {
+                "user": "ur687128013",
+                "amount": 15000
+              }
+            ],
+            "hisa": [
+              {
+                "user": "ur68118012",
+                "amount": 2000
+              },
+              {
+                "user": "ur655128011",
+                "amount": 50000
+              },
+              {
+                "user": "ur687128013",
+                "amount": 80000
+              }
+            ]
           }
-        ]
-      }
+        }
+      ],
+      "attendance": [
+        {
+          "1/10/2019": [
+            {
+              "user": "ur68118012",
+              "status": true
+            },
+            {
+              "user": "ur655128011",
+              "status": true
+            },
+            {
+              "user": "ur687128013",
+              "status": false
+            }
+          ]
+        },
+        {
+          "30/09/2019": [
+            {
+              "user": "ur68118012",
+              "status": true
+            },
+            {
+              "user": "ur655128011",
+              "status": true
+            },
+            {
+              "user": "ur687128013",
+              "status": false
+            }
+          ]
+        }
+      ],
+      "loans": [
+        {
+          "11/09/2019": [
+            {
+              "user": "ur68118012",
+              "amount": 300000
+            },
+            {
+              "user": "ur655128011",
+              "amount": 50000
+            },
+            {
+              "user": "ur687128013",
+              "amount": 120000
+            }
+          ]
+        },
+        {
+          "10/09/2019": [
+            {
+              "user": "ur68118013",
+              "amount": 50000
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "user": [
+    {
+      "name": "Francis Mwakatumbula",
+      "id": "ur655128012",
+      "contact": "0655128012"
+    },{
+      "name": "Baraka John",
+      "id": "ur655128012",
+      "contact": "0655128013"
     }
   ]
-},{
-  "clientName": "John",
-  "clientId": 1,
-  "projects": [
-    {
-      "Malaria":{
-        "regions":[
-          {
-            "id": 1,
-            "name": "Mbeya",
-            "districts": 30
-          },
-          {
-            "item": 2,
-            "total": "Tanga",
-            "districts": 12
-          }
-        ],
-        "events": [
-          {
-            "id": 1,
-            "name": "MVU",
-            "targets": 40,
-            "reach": 5400
-          },
-          {
-            "id": 1,
-            "name": "MVU",
-            "targets": 32,
-            "reach": 3800
-          }
-        ]
-      }
-    },
-    {
-      "Home":{
-        "regions":[
-          {
-            "id": 1,
-            "name": "Mbeya",
-            "districts": 30
-          },
-          {
-            "item": 2,
-            "name": "Tanga",
-            "districts": 12
-          }
-        ],
-        "events": [
-          {
-            "id": 1,
-            "name": "MVU",
-            "targets": 40,
-            "reach": 5400
-          },
-          {
-            "id": 1,
-            "name": "MVU",
-            "targets": 32,
-            "reach": 3800
-          }
-        ]
-      }
-    }
-  ]
-},{
-  "clientName": "Uiso",
-  "clientId": 1,
-  "projects": [
-    {
-      "Malaria":{
-        "regions":[
-          {
-            "id": 1,
-            "name": "Mbeya",
-            "districts": 30
-          },
-          {
-            "item": 2,
-            "total": "Tanga",
-            "districts": 12
-          }
-        ],
-        "events": [
-          {
-            "id": 1,
-            "name": "MVU",
-            "targets": 40,
-            "reach": 5400
-          },
-          {
-            "id": 1,
-            "name": "MVU",
-            "targets": 32,
-            "reach": 3800
-          }
-        ]
-      }
-    },
-    {
-      "Home":{
-        "regions":[
-          {
-            "id": 1,
-            "name": "Mbeya",
-            "districts": 30
-          },
-          {
-            "item": 2,
-            "name": "Tanga",
-            "districts": 12
-          }
-        ],
-        "events": [
-          {
-            "id": 1,
-            "name": "MVU",
-            "targets": 40,
-            "reach": 5400
-          },
-          {
-            "id": 1,
-            "name": "MVU",
-            "targets": 32,
-            "reach": 3800
-          }
-        ]
-      }
-    }
-  ]
-}]
 }
